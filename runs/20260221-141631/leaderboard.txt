@@ -1,0 +1,5 @@
+seed | phase_start | max_coop | max_merge | max_role_entropy | max_ops_density | max_genotype_diversity | top_role@peak_signal
+----------------------------------------------------------------------------------------------------------------------
+unknown | n/a | 1.0000 | 0.00652 | 0.9983 | 134.7488 | 0.0117 | defender
+unknown | n/a | 1.0000 | 0.00547 | 0.3486 | 202.3334 | 0.0059 | defender
+unknown | n/a | 1.0000 | 0.00501 | 0.7783 | 118.7359 | 0.0117 | defender

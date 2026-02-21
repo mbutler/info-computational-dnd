@@ -1,0 +1,4 @@
+seed,rows,phase_interaction,zip_onset_interaction,ops_onset_interaction,coop_onset_interaction,merge_onset_interaction,best_role_entropy,best_cooperation_index,best_merge_rate,min_zip_size,max_ops_density,max_genotype_diversity,peak_signal_convention_strength,top_role_at_peak_signal,source_csv
+-1.0,101.0,-1.0,-1.0,100000.0,-1.0,100000.0,0.99827949,1.0,0.00652,127.0,134.74881,0.01171875,0.16796875,defender,/Users/mbutler/Desktop/info-computational-dnd/runs/20260221-141631/run_seed42.csv
+-1.0,101.0,-1.0,-1.0,-1.0,-1.0,100000.0,0.34863187,1.0,0.00547,127.0,202.333445,0.00585938,0.29296875,defender,/Users/mbutler/Desktop/info-computational-dnd/runs/20260221-141631/run_seed1337.csv
+-1.0,101.0,-1.0,-1.0,-1.0,-1.0,100000.0,0.77825639,1.0,0.00501,127.0,118.7359,0.01171875,0.546875,defender,/Users/mbutler/Desktop/info-computational-dnd/runs/20260221-141631/run_seed2026.csv

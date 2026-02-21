@@ -1,0 +1,224 @@
+Seed: 1337
+Initial Complexity: 18465
+Configured Interactions: 10,000,000
+Artifact Directory: /Users/mbutler/Desktop/info-computational-dnd/runs/20260221-141631/seed1337
+Heartbeat: every 15s
+[heartbeat] interaction=95,314 rate=6,354/s elapsed=15s
+[checkpoint] interaction=100,000 zip_size=992 ops_per_interaction=140.8108 merge_rate=0.00547 cooperation_index=0.9608 role_entropy=0.3486 genotype_diversity=0.0059
+[heartbeat] interaction=187,915 rate=6,264/s elapsed=30s
+[checkpoint] interaction=200,000 zip_size=782 ops_per_interaction=152.8043 merge_rate=0.00274 cooperation_index=0.9020 role_entropy=0.0000 genotype_diversity=0.0039
+[heartbeat] interaction=281,002 rate=6,244/s elapsed=45s
+[checkpoint] interaction=300,000 zip_size=711 ops_per_interaction=155.8081 merge_rate=0.00183 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0039
+[heartbeat] interaction=367,622 rate=6,127/s elapsed=60s
+[checkpoint] interaction=400,000 zip_size=535 ops_per_interaction=163.5273 merge_rate=0.00140 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=452,259 rate=6,030/s elapsed=75s
+[checkpoint] interaction=500,000 zip_size=523 ops_per_interaction=168.4733 merge_rate=0.00113 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=539,340 rate=5,993/s elapsed=90s
+[checkpoint] interaction=600,000 zip_size=518 ops_per_interaction=171.6722 merge_rate=0.00095 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=626,095 rate=5,963/s elapsed=105s
+[checkpoint] interaction=700,000 zip_size=517 ops_per_interaction=173.9433 merge_rate=0.00082 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=713,425 rate=5,945/s elapsed=120s
+[checkpoint] interaction=800,000 zip_size=525 ops_per_interaction=176.5134 merge_rate=0.00073 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=800,001 rate=5,922/s elapsed=135s
+[heartbeat] interaction=887,773 rate=5,915/s elapsed=150s
+[checkpoint] interaction=900,000 zip_size=545 ops_per_interaction=177.6208 merge_rate=0.00065 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0020
+[heartbeat] interaction=974,646 rate=5,904/s elapsed=165s
+[checkpoint] interaction=1,000,000 zip_size=127 ops_per_interaction=179.1792 merge_rate=0.00059 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,059,206 rate=5,881/s elapsed=180s
+[checkpoint] interaction=1,100,000 zip_size=127 ops_per_interaction=181.5149 merge_rate=0.00054 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,141,828 rate=5,853/s elapsed=195s
+[checkpoint] interaction=1,200,000 zip_size=127 ops_per_interaction=183.4718 merge_rate=0.00050 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,226,301 rate=5,837/s elapsed=210s
+[checkpoint] interaction=1,300,000 zip_size=127 ops_per_interaction=185.0921 merge_rate=0.00046 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,309,460 rate=5,817/s elapsed=225s
+[heartbeat] interaction=1,394,552 rate=5,808/s elapsed=240s
+[checkpoint] interaction=1,400,000 zip_size=127 ops_per_interaction=186.4997 merge_rate=0.00044 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,477,917 rate=5,794/s elapsed=255s
+[checkpoint] interaction=1,500,000 zip_size=127 ops_per_interaction=187.7262 merge_rate=0.00041 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,561,659 rate=5,782/s elapsed=270s
+[checkpoint] interaction=1,600,000 zip_size=127 ops_per_interaction=188.7921 merge_rate=0.00039 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,645,749 rate=5,773/s elapsed=285s
+[checkpoint] interaction=1,700,000 zip_size=127 ops_per_interaction=189.7306 merge_rate=0.00037 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,730,117 rate=5,765/s elapsed=300s
+[checkpoint] interaction=1,800,000 zip_size=127 ops_per_interaction=190.5657 merge_rate=0.00035 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,814,239 rate=5,758/s elapsed=315s
+[heartbeat] interaction=1,898,047 rate=5,750/s elapsed=330s
+[checkpoint] interaction=1,900,000 zip_size=127 ops_per_interaction=191.3276 merge_rate=0.00033 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=1,982,531 rate=5,745/s elapsed=345s
+[checkpoint] interaction=2,000,000 zip_size=127 ops_per_interaction=191.9956 merge_rate=0.00032 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,065,619 rate=5,736/s elapsed=360s
+[checkpoint] interaction=2,100,000 zip_size=127 ops_per_interaction=192.6109 merge_rate=0.00030 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,149,978 rate=5,732/s elapsed=375s
+[checkpoint] interaction=2,200,000 zip_size=127 ops_per_interaction=193.1827 merge_rate=0.00029 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,234,272 rate=5,727/s elapsed=390s
+[checkpoint] interaction=2,300,000 zip_size=127 ops_per_interaction=193.6973 merge_rate=0.00028 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,317,042 rate=5,720/s elapsed=405s
+[checkpoint] interaction=2,400,000 zip_size=127 ops_per_interaction=194.1832 merge_rate=0.00027 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,400,362 rate=5,714/s elapsed=420s
+[heartbeat] interaction=2,484,842 rate=5,711/s elapsed=435s
+[checkpoint] interaction=2,500,000 zip_size=127 ops_per_interaction=194.6160 merge_rate=0.00026 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,568,740 rate=5,707/s elapsed=450s
+[checkpoint] interaction=2,600,000 zip_size=127 ops_per_interaction=195.0085 merge_rate=0.00025 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,653,038 rate=5,704/s elapsed=465s
+[checkpoint] interaction=2,700,000 zip_size=127 ops_per_interaction=195.3816 merge_rate=0.00024 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,737,242 rate=5,701/s elapsed=480s
+[checkpoint] interaction=2,800,000 zip_size=127 ops_per_interaction=195.7140 merge_rate=0.00024 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,820,845 rate=5,698/s elapsed=495s
+[checkpoint] interaction=2,900,000 zip_size=127 ops_per_interaction=196.0224 merge_rate=0.00023 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=2,905,489 rate=5,696/s elapsed=510s
+[heartbeat] interaction=2,991,026 rate=5,696/s elapsed=525s
+[checkpoint] interaction=3,000,000 zip_size=127 ops_per_interaction=196.3270 merge_rate=0.00022 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,075,631 rate=5,695/s elapsed=540s
+[checkpoint] interaction=3,100,000 zip_size=127 ops_per_interaction=196.5996 merge_rate=0.00022 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,158,446 rate=5,690/s elapsed=555s
+[checkpoint] interaction=3,200,000 zip_size=127 ops_per_interaction=196.8544 merge_rate=0.00021 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,243,304 rate=5,689/s elapsed=570s
+[checkpoint] interaction=3,300,000 zip_size=127 ops_per_interaction=197.0917 merge_rate=0.00021 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,327,737 rate=5,687/s elapsed=585s
+[checkpoint] interaction=3,400,000 zip_size=127 ops_per_interaction=197.3246 merge_rate=0.00020 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,411,232 rate=5,684/s elapsed=600s
+[heartbeat] interaction=3,496,387 rate=5,684/s elapsed=615s
+[checkpoint] interaction=3,500,000 zip_size=127 ops_per_interaction=197.5407 merge_rate=0.00020 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,579,914 rate=5,682/s elapsed=630s
+[checkpoint] interaction=3,600,000 zip_size=127 ops_per_interaction=197.7467 merge_rate=0.00019 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,664,648 rate=5,681/s elapsed=645s
+[checkpoint] interaction=3,700,000 zip_size=127 ops_per_interaction=197.9345 merge_rate=0.00019 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,748,093 rate=5,678/s elapsed=660s
+[checkpoint] interaction=3,800,000 zip_size=127 ops_per_interaction=198.1140 merge_rate=0.00019 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,832,732 rate=5,677/s elapsed=675s
+[checkpoint] interaction=3,900,000 zip_size=127 ops_per_interaction=198.2847 merge_rate=0.00018 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=3,916,316 rate=5,675/s elapsed=690s
+[checkpoint] interaction=4,000,000 zip_size=127 ops_per_interaction=198.4589 merge_rate=0.00018 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,000,370 rate=5,673/s elapsed=705s
+[heartbeat] interaction=4,085,727 rate=5,674/s elapsed=720s
+[checkpoint] interaction=4,100,000 zip_size=127 ops_per_interaction=198.6179 merge_rate=0.00018 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,170,127 rate=5,673/s elapsed=735s
+[checkpoint] interaction=4,200,000 zip_size=127 ops_per_interaction=198.7696 merge_rate=0.00017 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,253,479 rate=5,671/s elapsed=750s
+[checkpoint] interaction=4,300,000 zip_size=127 ops_per_interaction=198.9134 merge_rate=0.00017 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,337,818 rate=5,670/s elapsed=765s
+[checkpoint] interaction=4,400,000 zip_size=127 ops_per_interaction=199.0448 merge_rate=0.00017 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,422,428 rate=5,669/s elapsed=780s
+[checkpoint] interaction=4,500,000 zip_size=127 ops_per_interaction=199.1714 merge_rate=0.00016 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,505,140 rate=5,666/s elapsed=795s
+[heartbeat] interaction=4,590,735 rate=5,667/s elapsed=810s
+[checkpoint] interaction=4,600,000 zip_size=127 ops_per_interaction=199.2884 merge_rate=0.00016 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,674,246 rate=5,665/s elapsed=825s
+[checkpoint] interaction=4,700,000 zip_size=127 ops_per_interaction=199.4067 merge_rate=0.00016 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,758,891 rate=5,665/s elapsed=840s
+[checkpoint] interaction=4,800,000 zip_size=127 ops_per_interaction=199.5249 merge_rate=0.00016 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,843,434 rate=5,664/s elapsed=855s
+[checkpoint] interaction=4,900,000 zip_size=127 ops_per_interaction=199.6292 merge_rate=0.00016 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=4,928,098 rate=5,664/s elapsed=870s
+[checkpoint] interaction=5,000,000 zip_size=127 ops_per_interaction=199.7321 merge_rate=0.00015 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,011,629 rate=5,662/s elapsed=885s
+[heartbeat] interaction=5,097,097 rate=5,663/s elapsed=900s
+[checkpoint] interaction=5,100,000 zip_size=127 ops_per_interaction=199.8309 merge_rate=0.00015 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,180,064 rate=5,661/s elapsed=915s
+[checkpoint] interaction=5,200,000 zip_size=127 ops_per_interaction=199.9286 merge_rate=0.00015 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,264,950 rate=5,661/s elapsed=930s
+[checkpoint] interaction=5,300,000 zip_size=127 ops_per_interaction=200.0234 merge_rate=0.00015 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,349,408 rate=5,660/s elapsed=945s
+[checkpoint] interaction=5,400,000 zip_size=127 ops_per_interaction=200.1160 merge_rate=0.00015 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,432,743 rate=5,659/s elapsed=960s
+[checkpoint] interaction=5,500,000 zip_size=127 ops_per_interaction=200.1986 merge_rate=0.00014 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,516,845 rate=5,658/s elapsed=975s
+[checkpoint] interaction=5,600,000 zip_size=127 ops_per_interaction=200.2807 merge_rate=0.00014 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,600,753 rate=5,657/s elapsed=990s
+[heartbeat] interaction=5,684,449 rate=5,656/s elapsed=1005s
+[checkpoint] interaction=5,700,000 zip_size=127 ops_per_interaction=200.3630 merge_rate=0.00014 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,768,389 rate=5,655/s elapsed=1020s
+[checkpoint] interaction=5,800,000 zip_size=127 ops_per_interaction=200.4462 merge_rate=0.00014 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,852,368 rate=5,654/s elapsed=1035s
+[checkpoint] interaction=5,900,000 zip_size=127 ops_per_interaction=200.5225 merge_rate=0.00014 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=5,935,749 rate=5,653/s elapsed=1050s
+[checkpoint] interaction=6,000,000 zip_size=127 ops_per_interaction=200.5933 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,019,767 rate=5,652/s elapsed=1065s
+[checkpoint] interaction=6,100,000 zip_size=127 ops_per_interaction=200.6640 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,103,807 rate=5,651/s elapsed=1080s
+[heartbeat] interaction=6,187,742 rate=5,650/s elapsed=1095s
+[checkpoint] interaction=6,200,000 zip_size=127 ops_per_interaction=200.7331 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,272,217 rate=5,650/s elapsed=1110s
+[checkpoint] interaction=6,300,000 zip_size=127 ops_per_interaction=200.7973 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,355,055 rate=5,648/s elapsed=1125s
+[checkpoint] interaction=6,400,000 zip_size=127 ops_per_interaction=200.8668 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,439,291 rate=5,648/s elapsed=1140s
+[checkpoint] interaction=6,500,000 zip_size=127 ops_per_interaction=200.9276 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,522,372 rate=5,647/s elapsed=1155s
+[checkpoint] interaction=6,600,000 zip_size=127 ops_per_interaction=200.9879 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,606,504 rate=5,646/s elapsed=1170s
+[heartbeat] interaction=6,691,329 rate=5,646/s elapsed=1185s
+[checkpoint] interaction=6,700,000 zip_size=127 ops_per_interaction=201.0513 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,774,641 rate=5,645/s elapsed=1200s
+[checkpoint] interaction=6,800,000 zip_size=127 ops_per_interaction=201.1090 merge_rate=0.00013 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,858,469 rate=5,644/s elapsed=1215s
+[checkpoint] interaction=6,900,000 zip_size=127 ops_per_interaction=201.1655 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=6,940,923 rate=5,643/s elapsed=1230s
+[checkpoint] interaction=7,000,000 zip_size=127 ops_per_interaction=201.2198 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,024,550 rate=5,642/s elapsed=1245s
+[checkpoint] interaction=7,100,000 zip_size=127 ops_per_interaction=201.2703 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,107,268 rate=5,640/s elapsed=1260s
+[heartbeat] interaction=7,191,997 rate=5,640/s elapsed=1275s
+[checkpoint] interaction=7,200,000 zip_size=127 ops_per_interaction=201.3240 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,274,975 rate=5,639/s elapsed=1290s
+[checkpoint] interaction=7,300,000 zip_size=127 ops_per_interaction=201.3682 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,358,348 rate=5,638/s elapsed=1305s
+[checkpoint] interaction=7,400,000 zip_size=127 ops_per_interaction=201.4182 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,441,309 rate=5,637/s elapsed=1320s
+[checkpoint] interaction=7,500,000 zip_size=127 ops_per_interaction=201.4650 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,524,885 rate=5,636/s elapsed=1335s
+[checkpoint] interaction=7,600,000 zip_size=127 ops_per_interaction=201.5127 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,607,458 rate=5,635/s elapsed=1350s
+[heartbeat] interaction=7,691,767 rate=5,635/s elapsed=1365s
+[checkpoint] interaction=7,700,000 zip_size=127 ops_per_interaction=201.5543 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,775,790 rate=5,634/s elapsed=1380s
+[checkpoint] interaction=7,800,000 zip_size=127 ops_per_interaction=201.5961 merge_rate=0.00012 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,858,726 rate=5,633/s elapsed=1395s
+[checkpoint] interaction=7,900,000 zip_size=127 ops_per_interaction=201.6383 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=7,942,455 rate=5,633/s elapsed=1410s
+[checkpoint] interaction=8,000,000 zip_size=127 ops_per_interaction=201.6775 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,026,121 rate=5,632/s elapsed=1425s
+[checkpoint] interaction=8,100,000 zip_size=127 ops_per_interaction=201.7160 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,108,938 rate=5,631/s elapsed=1440s
+[heartbeat] interaction=8,193,746 rate=5,631/s elapsed=1455s
+[checkpoint] interaction=8,200,000 zip_size=127 ops_per_interaction=201.7542 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,276,535 rate=5,630/s elapsed=1470s
+[checkpoint] interaction=8,300,000 zip_size=127 ops_per_interaction=201.7930 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,360,483 rate=5,630/s elapsed=1485s
+[checkpoint] interaction=8,400,000 zip_size=127 ops_per_interaction=201.8280 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,444,199 rate=5,629/s elapsed=1500s
+[checkpoint] interaction=8,500,000 zip_size=127 ops_per_interaction=201.8653 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,527,655 rate=5,628/s elapsed=1515s
+[checkpoint] interaction=8,600,000 zip_size=127 ops_per_interaction=201.9031 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,610,366 rate=5,627/s elapsed=1530s
+[heartbeat] interaction=8,695,246 rate=5,628/s elapsed=1545s
+[checkpoint] interaction=8,700,000 zip_size=127 ops_per_interaction=201.9340 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,778,455 rate=5,627/s elapsed=1560s
+[checkpoint] interaction=8,800,000 zip_size=127 ops_per_interaction=201.9679 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,861,917 rate=5,626/s elapsed=1575s
+[checkpoint] interaction=8,900,000 zip_size=127 ops_per_interaction=202.0037 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=8,945,285 rate=5,626/s elapsed=1590s
+[checkpoint] interaction=9,000,000 zip_size=127 ops_per_interaction=202.0404 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,027,638 rate=5,624/s elapsed=1605s
+[checkpoint] interaction=9,100,000 zip_size=127 ops_per_interaction=202.0715 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,111,825 rate=5,624/s elapsed=1620s
+[heartbeat] interaction=9,196,387 rate=5,624/s elapsed=1635s
+[checkpoint] interaction=9,200,000 zip_size=127 ops_per_interaction=202.1040 merge_rate=0.00011 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,280,580 rate=5,624/s elapsed=1650s
+[checkpoint] interaction=9,300,000 zip_size=127 ops_per_interaction=202.1347 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,364,834 rate=5,624/s elapsed=1665s
+[checkpoint] interaction=9,400,000 zip_size=127 ops_per_interaction=202.1635 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,448,115 rate=5,624/s elapsed=1680s
+[checkpoint] interaction=9,500,000 zip_size=127 ops_per_interaction=202.1919 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,531,942 rate=5,623/s elapsed=1695s
+[checkpoint] interaction=9,600,000 zip_size=127 ops_per_interaction=202.2212 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,615,704 rate=5,623/s elapsed=1710s
+[heartbeat] interaction=9,699,545 rate=5,623/s elapsed=1725s
+[checkpoint] interaction=9,700,000 zip_size=127 ops_per_interaction=202.2490 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,783,691 rate=5,622/s elapsed=1740s
+[checkpoint] interaction=9,800,000 zip_size=127 ops_per_interaction=202.2763 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,866,857 rate=5,622/s elapsed=1755s
+[checkpoint] interaction=9,900,000 zip_size=127 ops_per_interaction=202.3046 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[heartbeat] interaction=9,950,937 rate=5,622/s elapsed=1770s
+[checkpoint] interaction=10,000,000 zip_size=127 ops_per_interaction=202.3334 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010
+[final] interaction=10,000,000 zip_size=127 ops_per_interaction=202.3334 merge_rate=0.00010 cooperation_index=1.0000 role_entropy=0.0000 genotype_diversity=0.0010

@@ -1,0 +1,10 @@
+Rows analyzed: 101
+Baseline points: 20
+
+Zip-drop onset: not detected
+Ops spike onset: not detected
+Cooperation lift onset: not detected
+Merge lift onset: interaction 100,000 (checkpoint row 0)
+
+No combined phase-transition window detected with current thresholds.
+Tip: relax thresholds if emergence appears late (e.g., lower --ops-spike-frac or --merge-lift-abs).
