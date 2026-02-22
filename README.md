@@ -35,7 +35,20 @@ Entities interact pairwise. During interactions, they can:
 - `sweep_emergence.py` - multi-seed leaderboard
 - `run_e3_batch.sh` - end-to-end runner (recommended entrypoint)
 
-## Quick Start
+## Evolve 4e (simple entity evolution)
+
+A **simpler** system lives in `evolve_4e/`: it **grows** D&D 4e monsters, powers, magic items, and relics using 4e rules as "physics" (level math, roles, keywords). No soup simulation—just mutation and crossover to produce cool, usable stat blocks.
+
+```bash
+python run_evolve.py                  # 3 monsters, 3 powers, 2 items, 1 relic
+python run_evolve.py --monsters 5 --gen 8
+```
+
+See `evolve_4e/README.md` for details.
+
+---
+
+## Quick Start (E3 simulation)
 
 Run one full multi-seed batch:
 
